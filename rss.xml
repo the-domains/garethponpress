@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/garethponpress/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 05 Aug 2015 19:11:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 05 Aug 2015 19:13:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/garethponpress/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Gareth Pon Interview]]></title>
+            <description><![CDATA[<article><h1>The Gareth Pon Interview</h1><p>Words: Genevieve Putter | Photographs: Chisanga Mubanga As a freelance writer, I have a confession to make... my shorthand blows. Ironic as interviewing prolific people is a big part of my schtick.</p><img src="http://api.superbalist.com/assets/253346/thumb/original.jpg"></article>]]></description>
+            <link>http://superbalist.com/thewayofus/2015/07/28/the-gareth-pon-interview/216?ref=blog</link>
+            <guid isPermaLink="false">563b806e-14fd-4bbe-913f-a9a14feb1ea9</guid>
+            <pubDate>Wed, 05 Aug 2015 19:13:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Social Media has become a marketing tool - Moneyweb]]></title>
             <description><![CDATA[<article><h1>Social Media has become a marketing tool - Moneyweb</h1><p>Interview with Samsung brand ambassador and South African Instagrammer Gareth Pon about social media as a marketing tool. Morgan Barnard&nbsp|&nbsp4 August 2015&nbsp16:58 http://www.moneyweb.co.za/wp-content/uploads/2015/08/150804-garethpon.mp3 MORGAN BARNARD: Hello and welcome to Moneyweb's special report podcast. My name is Morgan Barnard.</p><img src="http://www.moneyweb.co.za/wp-content/uploads/2014/07/Gareth-Pon-by-Tim-Gerges.jpg"></article>]]></description>
