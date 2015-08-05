@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Untitled RSS Feed]]></title>
+        <description><![CDATA[Untitled RSS Feed]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 05 Aug 2015 19:11:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Social Media has become a marketing tool - Moneyweb]]></title>
+            <description><![CDATA[<article><h1>Social Media has become a marketing tool - Moneyweb</h1><p>Interview with Samsung brand ambassador and South African Instagrammer Gareth Pon about social media as a marketing tool. Morgan Barnard&nbsp|&nbsp4 August 2015&nbsp16:58 http://www.moneyweb.co.za/wp-content/uploads/2015/08/150804-garethpon.mp3 MORGAN BARNARD: Hello and welcome to Moneyweb's special report podcast. My name is Morgan Barnard.</p><img src="http://www.moneyweb.co.za/wp-content/uploads/2014/07/Gareth-Pon-by-Tim-Gerges.jpg"></article>]]></description>
+            <link>http://www.moneyweb.co.za/moneyweb-radio/special-report/social-media-has-become-a-marketing-tool/#.VcDbR7P0b6A.facebook</link>
+            <guid isPermaLink="false">84ef7525-7f72-49b8-a726-5b48350cca27</guid>
+            <pubDate>Wed, 05 Aug 2015 19:11:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
